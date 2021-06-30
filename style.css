@@ -112,6 +112,10 @@ main {
   width: 230px;
 }
 
+.common-heading {
+  border-bottom: solid 8px #f7f7f7;
+}
+
 footer {
   width: 100%;
   height: 120px;
